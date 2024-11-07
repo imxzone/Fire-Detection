@@ -1,0 +1,5 @@
+train: /kaggle/input/fire-detection-night/train/train
+val: /kaggle/input/fire-detection-night/valid/valid
+
+nc: 2
+names: ['smoke', 'fire']

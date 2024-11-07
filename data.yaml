@@ -1,0 +1,5 @@
+train: E:/AI_Projects/Fire_Detection/train
+val: E:/AI_Projects/Fire_Detection/valid
+
+nc: 2
+names: ['smoke', 'fire']
